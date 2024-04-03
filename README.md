@@ -1,0 +1,1 @@
+# odoovp_import_product_image
